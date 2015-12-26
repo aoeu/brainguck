@@ -8,7 +8,7 @@ An interpreter for the Programming language named `++++++++[>+>++>+++>++++>+++++
 
 ## Usage:
 ```
-$ go run brainguck.go -in hello.b -v 
+$ brainguck -in hello.b -v 
 Hello World! 
 970 bytes read.
 ```
