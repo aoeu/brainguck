@@ -5,7 +5,7 @@ An interpreter for the Programming language named `++++++++[>+>++>+++>++++>+++++
 
 ## Installation
 ```
-$ go get github.com/aoeu/brainguck/
+$ go get github.com/aoeu/brainguck
 $ go install $GOPATH/src/github.com/aoeu/brainguck/cmd/brainguck.go 
 ```
 
